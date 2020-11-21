@@ -17,6 +17,7 @@
 
 .slider-container .slider-wrapper img {
     width: 100%;
+    object-fit: cover;
 }
 
 .slider-container .slider-controls {
