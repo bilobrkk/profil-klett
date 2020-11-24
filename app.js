@@ -62,5 +62,5 @@ export default class Slider {
      }
 }
 
-new Slider('.slider1', '.wrapper1', 3000000, '200px', '.prev1', '.next1');
-new Slider('.slider2', '.wrapper2', 6000000, '600px', '.prev2', '.next2');
+new Slider('.slider1', '.wrapper1', 3000, '200px', '.prev1', '.next1');
+new Slider('.slider2', '.wrapper2', 6000, '600px', '.prev2', '.next2');
